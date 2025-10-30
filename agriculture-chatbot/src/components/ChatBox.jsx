@@ -20,7 +20,7 @@ const ChatBox = () => {
     setIsLoading(true);
 
     try {
-      const res = await axios.post("http://localhost:5000/api/query", { query: input });
+      const res = await axios.post("https://agriculture-chatbot-gmqi.onrender.com/api/query", { query: input });
       
       // Format the response with sources
       let responseText = res.data.answer;
