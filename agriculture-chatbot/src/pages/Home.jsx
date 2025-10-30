@@ -136,5 +136,4 @@ const Home = ({ onStart }) => {
     </div>
   );
 };
-
 export default Home;
