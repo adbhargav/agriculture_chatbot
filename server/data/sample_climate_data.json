@@ -1,0 +1,47 @@
+[
+  {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "year": 2023,
+    "rainfall": 1200,
+    "avg_temp": 26.5,
+    "max_temp": 38.2,
+    "min_temp": 18.3
+  },
+  {
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "year": 2023,
+    "rainfall": 1100,
+    "avg_temp": 27.8,
+    "max_temp": 40.1,
+    "min_temp": 19.2
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "year": 2023,
+    "rainfall": 950,
+    "avg_temp": 25.3,
+    "max_temp": 36.7,
+    "min_temp": 17.8
+  },
+  {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "year": 2022,
+    "rainfall": 1050,
+    "avg_temp": 26.2,
+    "max_temp": 37.5,
+    "min_temp": 18.1
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "year": 2022,
+    "rainfall": 920,
+    "avg_temp": 25.1,
+    "max_temp": 36.2,
+    "min_temp": 17.5
+  }
+]

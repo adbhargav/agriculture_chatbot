@@ -1,0 +1,52 @@
+[
+  {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "crop": "Rice",
+    "year": 2023,
+    "season": "Kharif",
+    "area": 15000,
+    "production": 30000,
+    "yield": 2.0
+  },
+  {
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "crop": "Rice",
+    "year": 2023,
+    "season": "Kharif",
+    "area": 12000,
+    "production": 25000,
+    "yield": 2.1
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "crop": "Rice",
+    "year": 2023,
+    "season": "Kharif",
+    "area": 10000,
+    "production": 20000,
+    "yield": 2.0
+  },
+  {
+    "state": "Maharashtra",
+    "district": "Pune",
+    "crop": "Wheat",
+    "year": 2023,
+    "season": "Rabi",
+    "area": 8000,
+    "production": 24000,
+    "yield": 3.0
+  },
+  {
+    "state": "Karnataka",
+    "district": "Belgaum",
+    "crop": "Wheat",
+    "year": 2023,
+    "season": "Rabi",
+    "area": 6000,
+    "production": 18000,
+    "yield": 3.0
+  }
+]
