@@ -64,7 +64,7 @@ const Home = ({ onStart }) => {
         animate={{ opacity: 1 }}
         transition={{ delay: 1.2, duration: 1 }}
       >
-        © 2025 Project Samarth | Built with ❤️ using React + Node.js
+        © 2025 Project Samarth | Designed and developed by Seema
       </motion.footer>
     </div>
   );
